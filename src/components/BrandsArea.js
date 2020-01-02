@@ -15,9 +15,6 @@ class BrandsArea extends Component {
                                     <a href="#"><img className="" src="img/brand/nodejs.png" alt="" /></a>
                                 </div>
                                 <div className="col">
-                                    <a href="#"><img className="" src="img/brand/codeigniter.png" alt="" /></a>
-                                </div>
-                                <div className="col">
                                     <a href="#"><img className="" src="img/brand/javascript_01.png" alt="" /></a>
                                 </div>
                                 <div className="col">
@@ -25,6 +22,9 @@ class BrandsArea extends Component {
                                 </div>
                                 <div className="col">
                                     <a href="#"><img className="" src="img/brand/react.png" alt="" /></a>
+                                </div>
+                                <div className="col">
+                                    <a href="#"><img className="" src="img/brand/codeigniter.png" alt="" /></a>
                                 </div>
                                 <div className="col">
                                     <a href="#"><img className="" src="img/brand/Docker_facebook_share.png" alt="" /></a>
