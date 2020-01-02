@@ -8,7 +8,7 @@ class AboutArea extends Component {
                     <div className="container">
                         <div className="row align-items-center justify-content-between">
                             <div className="col-lg-6 about-left">
-                                <img className="img-fluid" src={`${process.env.PUBLIC_URL}/img/about-img.jpg`} alt="about" />
+                                <img className="img-fluid" src={`${process.env.PUBLIC_URL}/img/pongthep-img.png`} alt="about" />
                             </div>
                             <div className="col-lg-5 col-md-12 about-right">
                                 <div className="section-title">
