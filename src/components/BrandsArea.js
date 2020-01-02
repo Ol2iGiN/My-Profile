@@ -18,9 +18,6 @@ class BrandsArea extends Component {
                                     <a href="#"><img className="" src="img/brand/codeigniter.png" alt="" /></a>
                                 </div>
                                 <div className="col">
-                                    <a href="#"><img className="" src="img/brand/Docker_facebook_share.png" alt="" /></a>
-                                </div>
-                                <div className="col">
                                     <a href="#"><img className="" src="img/brand/javascript_01.png" alt="" /></a>
                                 </div>
                                 <div className="col">
@@ -30,6 +27,9 @@ class BrandsArea extends Component {
                                     <a href="#"><img className="" src="img/brand/react.png" alt="" /></a>
                                 </div>
                                 <div className="col">
+                                    <a href="#"><img className="" src="img/brand/Docker_facebook_share.png" alt="" /></a>
+                                </div>
+                                <div className="col">
                                     <a href="#"><img className="" src="img/brand/nginx.png" alt="" /></a>
                                 </div>
                                 <div className="col">
@@ -37,6 +37,24 @@ class BrandsArea extends Component {
                                 </div>
                                 <div className="col">
                                     <a href="#"><img className="" src="img/brand/html5.png" alt="" /></a>
+                                </div>
+                                <div className="col">
+                                    <a href="#"><img className="" src="img/brand/git.png" alt="" /></a>
+                                </div>
+                                <div className="col">
+                                    <a href="#"><img className="" src="img/brand/github-logo.jpg" alt="" /></a>
+                                </div>
+                                <div className="col">
+                                    <a href="#"><img className="" src="img/brand/mongodb.png" alt="" /></a>
+                                </div>
+                                <div className="col">
+                                    <a href="#"><img className="" src="img/brand/mysql.png" alt="" /></a>
+                                </div>
+                                <div className="col">
+                                    <a href="#"><img className="" src="img/brand/MariaDB.png" alt="" /></a>
+                                </div>
+                                <div className="col">
+                                    <a href="#"><img className="" src="img/brand/cloud-ubuntu.jpg" alt="" /></a>
                                 </div>
                             </div>
                         </div>
