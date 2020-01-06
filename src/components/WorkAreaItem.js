@@ -8,7 +8,7 @@ function WorkAreaItem(props) {
                 <img className="image img-fluid" src={props.project_image_path} alt />
             </div>
             <div className="middle">
-                <h4>2D Vinyl Design</h4>
+                <h4>{{ props.project_title}}</h4>
                 <div className="cat">Client Project</div>
             </div>
             <a className="overlay" href="portfolio-details.html" />
