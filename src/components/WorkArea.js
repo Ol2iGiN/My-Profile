@@ -19,7 +19,7 @@ class WorkArea extends Component {
                         <div className="filters-content">
                             <div className="row grid">
                                 <div className="single-work col-lg-4 col-md-6 col-sm-12 all creative wow fadeInUp" data-wow-duration="2s">
-                                    <WorkAreaItem project_image_path="img/work/w1.jpg" project_title="aSearcher" project_type="Client Project" />
+                                    <WorkAreaItem project_image_path="img/work/banner-asearcher.png" project_title="aSearcher" project_type="Client Project" />
                                 </div>
                                 <div className="single-work col-lg-4 col-md-6 col-sm-12 all web-design branding wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
                                     <WorkAreaItem project_image_path="img/work/w2.jpg" project_title="2D Vinyl Design" project_type="Client Project" />
